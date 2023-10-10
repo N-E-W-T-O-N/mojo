@@ -1,7 +1,7 @@
 ## To use docker compose to rebuild the image  
 # docker compose up -d --build
 
-version: "3.8"
+version: "3"
 services:
   mojo :
     container_name: mojo
